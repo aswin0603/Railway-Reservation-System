@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
+# Reg No: 212224110007
+# Name: ASWIN B
 # Date:
 
 
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="841" height="903" alt="image" src="https://github.com/user-attachments/assets/7feca8f8-06b5-424b-8b6a-d815f736abb4" />
 
 
 
@@ -59,13 +60,19 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="974" height="693" alt="image" src="https://github.com/user-attachments/assets/12f80234-58af-4561-8933-9161bfd532a4" />
 
 
-# COMMUNICTION DIAGRAM:
+
+
+# COMMUNICATION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+
+
+<img width="889" height="760" alt="image" src="https://github.com/user-attachments/assets/ed755366-92e8-4b01-9a18-c315c669185a" />
 
 
 
@@ -81,6 +88,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="573" height="490" alt="image" src="https://github.com/user-attachments/assets/4440803c-c646-4bda-ae1a-8c584edb7bd8" />
 
 
 
